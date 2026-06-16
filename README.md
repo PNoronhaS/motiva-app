@@ -27,7 +27,7 @@ A integração com APIs reais será feita em sprints futuras.
 ---
 
 ## 📂 Estrutura de Pastas
-
+```
 motiva-app/
  ├── src/
  │   ├── navigation/
@@ -39,9 +39,8 @@ motiva-app/
  │   │   └── PerfilScreen.js
  │   └── data/
  │       └── mockData.js
- ├── App.js
- └── README.md
-
+ └──  App.js
+```
 
 ---
 
