@@ -88,6 +88,7 @@ Link para o vídeo:
 ---
 
 ## 👥 Integrantes
+```
 .Thiago Ono Sakai - 563448
 .Lucas Franco de Godoy Fortes - 561723
 .Rafael Silva Oliveira Nascimento - 565415
@@ -95,3 +96,4 @@ Link para o vídeo:
 .Pedro Mitsuo Risardi Nisiaymamoto - 561710
 .Luiz Claro Lima - 563014
 .Pedro Noronha dos Santos - 564572
+```
