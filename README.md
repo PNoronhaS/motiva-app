@@ -83,7 +83,8 @@ Exemplo de estrutura utilizada:
 ---
 
 ## 🎥 Vídeo de Demonstração
-Link para o vídeo: 
+Link para o vídeo: https://youtu.be/mmm1DhQ1v28?si=Sk7Er7BZVX9WCc4L
+(Video foi gravado na forma web do pc)
 
 ---
 
