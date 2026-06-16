@@ -27,13 +27,21 @@ A integração com APIs reais será feita em sprints futuras.
 ---
 
 ## 📂 Estrutura de Pastas
+
 motiva-app/
-├── src/
-│   ├── navigation/   # AppNavigator.js
-│   ├── screens/      # Home, Ocorrências, Trechos, Perfil
-│   └── data/         # mockData.js
-├── App.js
-└── README.md
+ ├── src/
+ │   ├── navigation/
+ │   │   └── AppNavigator.js
+ │   ├── screens/
+ │   │   ├── HomeScreen.js
+ │   │   ├── OcorrenciasScreen.js
+ │   │   ├── TrechosScreen.js
+ │   │   └── PerfilScreen.js
+ │   └── data/
+ │       └── mockData.js
+ ├── App.js
+ └── README.md
+
 
 ---
 
